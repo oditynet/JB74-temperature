@@ -12,6 +12,10 @@ https://can.starline.ru/0/38/8629#connections
   </tr>
 </table>
 
+STL Model
+
+<img src="https://github.com/oditynet/JB74-temperature/blob/main/res3.png" width="300" height="auto" />
+
 
 <h2>Подключение LCD I2C к Arduino Nano</h2>
 <table border="1" cellpadding="5" cellspacing="0">
